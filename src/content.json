@@ -1,0 +1,10 @@
+{
+    "column1": {
+        "title": "Header Text",
+        "packages": ["Item Name", "Item Name", "Item Name", "Item Name", "Item Name", "Item Name", "Item Name", "Item Name", "Item Name", "Item Name", "Item Name"]
+    },
+    "column2": {
+        "title": "This is Long Header Text",
+        "packages": ["Item Name", "Item Name", "Item Name", "Item Name"]
+    }
+}
